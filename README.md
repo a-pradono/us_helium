@@ -29,7 +29,7 @@ The workflow above illustrates an overview of how I developed interactive data v
 In the first chart below, several parameters were set to create the interactive visualization for the helium concentrations in the US. The color scale bar was assigned based on sample depth (ft) from the helium sample while the size was set based on the value from the helium itself. Once you drag your mouse to the data, the data contains information that includes API number, latitude, longitude, field, formation, sample depth, helium value, and source.
 
 <p align="center">
-  <img width="400" height="200" src="https://github.com/a-pradono/us_helium/blob/main/Images/plot01.gif">
+  <img width="400" height="200" src="https://github.com/a-pradono/us_helium/blob/main/Images/plot00.gif">
 </p>
 <p align="center">
 Interactive chart can be accessed <a href="https://datapane.com/u/apradono94/reports/MA1p5Rk/chart-1/">here</a>
