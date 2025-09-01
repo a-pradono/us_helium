@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="200" src="https://github.com/a-pradono/us_helium/blob/main/Images/header.jpg">
+  <img width="300" height="200" src="https://github.com/a-pradono/us_helium/blob/main/images/header.jpg">
 </p>
 <p align="center">
 Photo by <a href="https://unsplash.com/@anton_konstantinov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anton Konstantinov</a> on <a   href="https://unsplash.com/s/photos/blimp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -20,7 +20,7 @@ Helium is one of the most abundant gases in the universe and it is identified as
 The data for this project was obtained from Brennan et al. (2021). This dataset provides helium gas concentration (mol%) containing +13K observations from known and publicly wells data in the US. 
 
 <p align="center">
-  <img width="300" height="150" src="https://github.com/a-pradono/us_helium/blob/main/Images/workflow.jpg">
+  <img width="300" height="150" src="https://github.com/a-pradono/us_helium/blob/main/images/workflow.jpg">
 </p>
 
 The workflow above illustrates an overview of how I developed interactive data visualizations in this project. To begin with, data has been cleaned once is retrieved from the source. Moreover, automating the extraction of state names was identified using the latitude and longitude data. Finally, the interactive charts that include the animation can be visualized to better understand the distribution of helium concentrations in the US. 
@@ -29,7 +29,7 @@ The workflow above illustrates an overview of how I developed interactive data v
 In the first chart below, several parameters were set to create the interactive visualization for the helium concentrations in the US. The color scale bar was assigned based on sample depth (ft) from the helium sample while the size was set based on the value from the helium itself. Once you drag your mouse to the data, the data contains information that includes API number, latitude, longitude, field, formation, sample depth, helium value, and source.
 
 <p align="center">
-  <img width="400" height="200" src="https://github.com/a-pradono/us_helium/blob/main/Images/plot00.gif">
+  <img width="400" height="200" src="https://github.com/a-pradono/us_helium/blob/main/images/plot00.gif">
 </p>
 <p align="center">
 Interactive chart can be accessed <a href="https://datapane.com/u/apradono94/reports/MA1p5Rk/chart-1/">here</a>
@@ -38,7 +38,7 @@ Interactive chart can be accessed <a href="https://datapane.com/u/apradono94/rep
 In the second chart below, the animation of the helium concentrations has been developed based on the sample year. The available helium samples of this data frame have been collected from 1914-2014.
 
 <p align="center">
-  <img width="400" height="200" src="https://github.com/a-pradono/us_helium/blob/main/Images/plot02.gif">
+  <img width="400" height="200" src="https://github.com/a-pradono/us_helium/blob/main/images/plot02.gif">
 </p>
 <p align="center">
 Interactive chart can be accessed <a href="https://datapane.com/u/apradono94/reports/Y3YVwO7/chart-2/">here</a>
@@ -47,7 +47,7 @@ Interactive chart can be accessed <a href="https://datapane.com/u/apradono94/rep
 In the last chart below, the dropdown menu button was added to filter the helium data based on the state location to make people easier to focus just on a specific state.
 
 <p align="center">
-  <img width="400" height="200" src="https://github.com/a-pradono/us_helium/blob/main/Images/plot03.gif">
+  <img width="400" height="200" src="https://github.com/a-pradono/us_helium/blob/main/images/plot03.gif">
 </p>
 <p align="center">
 Interactive chart can be accessed <a href="https://datapane.com/u/apradono94/reports/E7yl2P3/chart-3/">here</a>
