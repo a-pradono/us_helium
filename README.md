@@ -1,10 +1,3 @@
-<p align="center">
-  <img width="300" height="200" src="https://github.com/a-pradono/us_helium/blob/main/images/header.jpg">
-</p>
-<p align="center">
-Photo by <a href="https://unsplash.com/@anton_konstantinov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anton Konstantinov</a> on <a   href="https://unsplash.com/s/photos/blimp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-</p>
-
 ## Table of Contents
 
 - [I. Introduction](#i-introduction)
